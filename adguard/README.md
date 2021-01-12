@@ -33,5 +33,5 @@ easily manage the filtering process and its settings.
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [release-shield]: https://img.shields.io/badge/version-v2.6.1-blue.svg
-[release]: https://github.com/hassio-addons/addon-adguard-home/tree/v2.6.1
+[release]: https://github.com/polzy/addon-adguard-home/tree/v2.6.3
 [screenshot]: https://github.com/hassio-addons/addon-adguard-home/raw/v2.6.1/images/screenshot.png
