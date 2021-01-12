@@ -2,7 +2,7 @@
 
 ### 🔨 Changes
 
-- ⬆ Upgrades AdGuard Home to 0.104.1
+- ⬆ Upgrades AdGuard Home to v0.105.0-beta.2
 
 [changelog]: https://github.com/hassio-addons/addon-adguard-home/compare/v2.6.0...v2.6.1
 
